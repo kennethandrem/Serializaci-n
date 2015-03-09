@@ -1,0 +1,6 @@
+C:\Users\Kenneth\Documents\Visual Studio 2013\Projects\Serializacion\Serializacion\bin\Debug\Serializacion.exe.config
+C:\Users\Kenneth\Documents\Visual Studio 2013\Projects\Serializacion\Serializacion\bin\Debug\Serializacion.exe
+C:\Users\Kenneth\Documents\Visual Studio 2013\Projects\Serializacion\Serializacion\bin\Debug\Serializacion.pdb
+C:\Users\Kenneth\Documents\Visual Studio 2013\Projects\Serializacion\Serializacion\obj\Debug\Serializacion.csprojResolveAssemblyReference.cache
+C:\Users\Kenneth\Documents\Visual Studio 2013\Projects\Serializacion\Serializacion\obj\Debug\Serializacion.exe
+C:\Users\Kenneth\Documents\Visual Studio 2013\Projects\Serializacion\Serializacion\obj\Debug\Serializacion.pdb
